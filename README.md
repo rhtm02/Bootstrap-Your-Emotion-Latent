@@ -1,5 +1,6 @@
 The 4th Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW), will be held in conjunction with the European Conference on Computer Vision (ECCV), 2022. 
 
+
 #Team : IMLAB
 BYEL(Bootstrap on Your Emotion Latent) - https://arxiv.org/abs/2207.10003
 
@@ -25,6 +26,12 @@ BYEL(Bootstrap on Your Emotion Latent) - https://arxiv.org/abs/2207.10003
     	-evaluation
     ```
     
+## Acknowledgement
+
+This code was modified by taking a lot of the code from https://github.com/lucidrains/byol-pytorch.
+
+
+
 ## Citation
 @misc{lee2022byel,
       title={BYEL : Bootstrap on Your Emotion Latent}, 
