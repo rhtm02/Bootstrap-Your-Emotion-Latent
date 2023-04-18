@@ -2,7 +2,7 @@
 
 ## Team : IMLAB
 
-BYEL(Bootstrap on Your Emotion Latent) - https://arxiv.org/abs/2207.10003
+BYEL(Bootstrap Your Emotion Latent) - https://arxiv.org/abs/2207.10003
 
 
 ## Requirements
